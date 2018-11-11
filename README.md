@@ -7,7 +7,9 @@
 
 v0.2.0偏好设置
 ======
-![0.2.0偏好设置](https://github.com/ZJM6658/PasteControl/blob/master/images/pasteControl-0.2.0.png?raw=true)
+<div align=left>
+<img src="https://github.com/ZJM6658/PasteControl/blob/master/images/pasteControl-0.2.0.png?raw=true" width = 50%  />
+</div>
 
 版本历史
 =======
