@@ -3,9 +3,9 @@
 
 说明
 ======
-> 当前版本0.2.0，请在 [releases](https://github.com/ZJM6658/PasteControl/releases)中下载试用，欢迎联系作者`(wx:13247176658)`提出需求或者反馈bug~
+> 当前最新版本为0.2.1，请在 [releases](https://github.com/ZJM6658/PasteControl/releases) 中下载试用，欢迎联系作者`(wx:13247176658)`提出需求或者反馈bug~
 
-v0.2.0偏好设置
+v0.2.1偏好设置
 ======
 <div align=left>
 <img src="https://github.com/ZJM6658/PasteControl/blob/master/images/pasteControl-0.2.0.png?raw=true" width = 50%  />
@@ -13,6 +13,13 @@ v0.2.0偏好设置
 
 版本历史
 =======
+
+#### v0.2.1
+- [x] 支持横向显示时的触摸手势横向滑动s（兼容鼠标滚轮）
+- [x] 修复OSX 10.13.6上item被选中时的层级显示错误
+- [x] 完善“关于PasteControl”，显示当前版本信息
+- [x] 修复bug，提高数据读写稳定性
+
 #### v0.2.0
 - [x] 支持设置搜索按钮显示状态
 - [x] 支持选择搜索引擎（谷歌、百度、必应、知乎）
